@@ -1,0 +1,13 @@
+{
+  "science" :
+    ["mathématiques","physique","biologie","chimie", "scientifique","étude"],
+  "Région":
+    ["europe","asie","afrique","amérique","france","russie","chine"],
+  "Theme": {
+
+  },
+  "Period":
+    ["renaissance"]
+
+
+}
